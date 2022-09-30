@@ -1,0 +1,11 @@
+.flex-container {
+    
+}
+
+.flex-item {
+background-color: blueviolet;
+border: 2px solid white;
+margin: 10px;
+width: 150;
+height: 150;
+}
